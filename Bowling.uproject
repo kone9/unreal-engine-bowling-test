@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0F6D1EBD-4C59-A30B-90F1-B3BAE8215A33}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Bowling",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
